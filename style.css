@@ -1,0 +1,33 @@
+
+
+body {
+    background-image: url(src/bgpi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: auto;
+    padding: 0;
+
+}
+.col{
+    border: 5px solid lightblue;
+    padding: 0;
+    color: white;
+    width: auto;
+    height: auto;
+}
+.main-text {
+    visibility: hidden;
+}
+.right {
+    align-items: center;
+}
+figure img {
+    width: auto;
+    height: auto;
+
+    padding: 0;
+
+}
