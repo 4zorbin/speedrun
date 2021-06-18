@@ -20,17 +20,3 @@ body {
 h1.main-text {
     visibility: hidden;
 }
-.right {
-    align-items: center;
-}
-
-.left-header {
-}
-
-
-
-figure img {
-    width: auto;
-    height: auto;
-    padding: 0;
-}
