@@ -8,6 +8,7 @@ body {
     background-repeat: no-repeat;
     background-size:cover ;
     align-content: center;
+    text-transform: uppercase;
 }
 .margin-top{
     margin-top: 15%;
@@ -22,4 +23,18 @@ body {
 }
 h1.main-text {
     visibility: hidden;
+}
+.google-btn {
+    width: 50%;
+}
+
+p {
+    word-break: normal;
+    width: 50%;align-items: center;
+
+}
+p.footer-text {
+    text-align: center;
+    font-size: 1.3em;
+
 }
