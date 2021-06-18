@@ -9,6 +9,9 @@ body {
     background-size:cover ;
     align-content: center;
 }
+.margin-top{
+    margin-top: 15%;
+}
 
 .col{
     text-align: center;
