@@ -9,11 +9,14 @@ body {
     background-size:cover ;
     align-content: center;
     text-transform: uppercase;
+    font-family: Copperplate Gothic Bold;
 }
 .margin-top{
     margin-top: 15%;
 }
-
+h1 {
+    font-family: Copperplate Gothic Bold;
+}
 
 .col{
     text-align: center;
@@ -28,6 +31,7 @@ h1.main-text {
 .btn {
     width: 50%;
 }
+
 
 
 
