@@ -1,45 +1,42 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 body {
-    background-image: url(src/bgpi.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover ;
-    align-content: center;
-    text-transform: uppercase;
-    font-family: Copperplate Gothic Bold;
+  background-image: url(src/bgpi.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-content: center;
+  text-transform: uppercase;
+  font-family: Copperplate Gothic Bold;
 }
-.margin-top{
-    margin-top: 15%;
+.margin-top {
+  margin-top: 15%;
 }
 h1 {
-    font-family: Copperplate Gothic Bold;
+  font-family: Copperplate Gothic Bold;
 }
 
-.col{
-    text-align: center;
-    padding: 0;
-    margin:0;
-    color: white;
-
+.col {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color: white;
 }
 h1.main-text {
-    visibility: hidden;
+  visibility: hidden;
 }
 .btn {
-    width: 50%;
+  width: 50%;
 }
 
 p {
-    word-break: normal;
-    width: 50%;
-    align-items: center;
-
+  word-break: normal;
+  width: 50%;
+  align-items: center;
 }
 p.footer-text {
-    text-align: center;
-    font-size: 1.3em;
-
+  text-align: center;
+  font-size: 1.3em;
 }
