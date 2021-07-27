@@ -2,6 +2,7 @@
 :root {
   --body-color: black;
   --col-color: white;
+
 }
 
 * {
@@ -16,15 +17,16 @@ body {
   background-size: cover;
   align-content: center;
   text-transform: uppercase;
-  font-family: Copperplate Gothic Bold;
-  background-color: var(--body-color);
+  font-family: Balthazar serif;
+  background-color: black;
+
 }
 
 .margin-top {
   margin-top: 15%;
 }
 h1 {
-  font-family: Copperplate Gothic Bold;
+  font-family: Copperplate Gothic Bold, Balthazar serif;
 }
 
 .col {
